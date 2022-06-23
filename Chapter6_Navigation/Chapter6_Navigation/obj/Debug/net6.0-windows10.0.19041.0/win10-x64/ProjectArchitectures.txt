@@ -1,0 +1,1 @@
+C:\Users\adelsole\source\repos\Chapter6_Navigation\Chapter6_Navigation\Chapter6_Navigation.csproj;x64
