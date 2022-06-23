@@ -1,0 +1,1 @@
+C:\Users\adelsole\source\repos\DataBinding\DataBinding\DataBinding.csproj;x64
