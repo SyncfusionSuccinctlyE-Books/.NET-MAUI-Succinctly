@@ -7,33 +7,33 @@ build_property.InvariantGlobalization = false
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ModelViewViewModel
-build_property.ProjectDir = C:\Users\adelsole\source\repos\ModelViewViewModel\ModelViewViewModel\
+build_property.ProjectDir = C:\Projects\.NET-MAUI-Succinctly\Chapter7_Resources_DataBinding\ModelViewViewModel\ModelViewViewModel\
 
-[C:/Users/adelsole/source/repos/ModelViewViewModel/ModelViewViewModel/App.xaml]
+[C:/Projects/.NET-MAUI-Succinctly/Chapter7_Resources_DataBinding/ModelViewViewModel/ModelViewViewModel/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ModelViewViewModel.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/adelsole/source/repos/ModelViewViewModel/ModelViewViewModel/AppShell.xaml]
+[C:/Projects/.NET-MAUI-Succinctly/Chapter7_Resources_DataBinding/ModelViewViewModel/ModelViewViewModel/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ModelViewViewModel.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/adelsole/source/repos/ModelViewViewModel/ModelViewViewModel/MainPage.xaml]
+[C:/Projects/.NET-MAUI-Succinctly/Chapter7_Resources_DataBinding/ModelViewViewModel/ModelViewViewModel/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ModelViewViewModel.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/adelsole/source/repos/ModelViewViewModel/ModelViewViewModel/Resources/Styles/Colors.xaml]
+[C:/Projects/.NET-MAUI-Succinctly/Chapter7_Resources_DataBinding/ModelViewViewModel/ModelViewViewModel/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ModelViewViewModel.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/adelsole/source/repos/ModelViewViewModel/ModelViewViewModel/Resources/Styles/Styles.xaml]
+[C:/Projects/.NET-MAUI-Succinctly/Chapter7_Resources_DataBinding/ModelViewViewModel/ModelViewViewModel/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ModelViewViewModel.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

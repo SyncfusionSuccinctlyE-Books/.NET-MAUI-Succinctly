@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dKI8iaNMVeqgjcLi8fJmCg6IiFOv9wB90HTeCZVtM0ieaO85ssrqTkpJsCls0eSL8HZuIch0at5tlidG4UMMbQ==",
+  "dgSpecHash": "v2rPtKSqPbNYBbfGHKEQC20Xo7dYujhp7po8l04cuDVg/Oe0BvXVSvV4gTi2uf8gdFagl1udKvF01ES8SxMVPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adelsole\\source\\repos\\ModelViewViewModel\\ModelViewViewModel\\ModelViewViewModel.csproj",
+  "projectFilePath": "C:\\Projects\\.NET-MAUI-Succinctly\\Chapter7_Resources_DataBinding\\ModelViewViewModel\\ModelViewViewModel\\ModelViewViewModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adelsole\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\adelsole\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",

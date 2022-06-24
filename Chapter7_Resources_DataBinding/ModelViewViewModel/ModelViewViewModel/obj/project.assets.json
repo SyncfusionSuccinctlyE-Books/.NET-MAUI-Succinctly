@@ -20253,11 +20253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adelsole\\source\\repos\\ModelViewViewModel\\ModelViewViewModel\\ModelViewViewModel.csproj",
+      "projectUniqueName": "C:\\Projects\\.NET-MAUI-Succinctly\\Chapter7_Resources_DataBinding\\ModelViewViewModel\\ModelViewViewModel\\ModelViewViewModel.csproj",
       "projectName": "ModelViewViewModel",
-      "projectPath": "C:\\Users\\adelsole\\source\\repos\\ModelViewViewModel\\ModelViewViewModel\\ModelViewViewModel.csproj",
+      "projectPath": "C:\\Projects\\.NET-MAUI-Succinctly\\Chapter7_Resources_DataBinding\\ModelViewViewModel\\ModelViewViewModel\\ModelViewViewModel.csproj",
       "packagesPath": "C:\\Users\\adelsole\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adelsole\\source\\repos\\ModelViewViewModel\\ModelViewViewModel\\obj\\",
+      "outputPath": "C:\\Projects\\.NET-MAUI-Succinctly\\Chapter7_Resources_DataBinding\\ModelViewViewModel\\ModelViewViewModel\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
