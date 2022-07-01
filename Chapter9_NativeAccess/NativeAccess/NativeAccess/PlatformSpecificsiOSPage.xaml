@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NativeAccess.PlatformSpecificsiOSPage"
+             xmlns:iOS="clr-namespace:Microsoft.Maui.Controls.PlatformConfiguration.iOSSpecific;assembly=Microsoft.Maui.Controls"
+             Title="PlatformSpecificsiOSPage">
+    <VerticalStackLayout>
+        <ListView iOS:ListView.SeparatorStyle="FullWidth" 
+             x:Name="ListView1">
+            <!-- Bind your data and add a data template here... -->
+        </ListView>
+
+    </VerticalStackLayout>
+</ContentPage>
