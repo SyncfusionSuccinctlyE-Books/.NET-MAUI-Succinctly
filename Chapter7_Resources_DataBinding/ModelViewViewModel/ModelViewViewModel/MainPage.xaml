@@ -3,7 +3,11 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ModelViewViewModel.MainPage">
 
-    <VerticalStackLayout>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="40" />
+        </Grid.RowDefinitions>
         <RefreshView RefreshColor="Teal" 
                      IsRefreshing="{Binding IsRefreshing}"
                      Command="{Binding RefreshCommand}">
@@ -30,14 +34,14 @@
                 </CollectionView.ItemTemplate>
             </CollectionView>
         </RefreshView>
-        <HorizontalStackLayout>
-            <Button Text="Add" Command="{Binding AddPerson}"/>
-            <Button Text="Delete" Command="{Binding DeletePerson}" 
+        <HorizontalStackLayout Grid.Row="1">
+            <Button Text="Add" Command="{Binding AddPersonCommand}"/>
+            <Button Text="Delete" Command="{Binding DeletePersonCommand}" 
                     CommandParameter=
                     "{Binding Source={x:Reference PeopleList}, 
                     Path=SelectedItem}"/>
             <Button Text="Detail" Command="{Binding ViewPersonDetail}"/>
         </HorizontalStackLayout>
-    </VerticalStackLayout>
+    </Grid>
         
 </ContentPage>

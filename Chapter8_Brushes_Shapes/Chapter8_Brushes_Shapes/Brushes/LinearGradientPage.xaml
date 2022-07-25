@@ -4,10 +4,10 @@
              x:Class="Chapter8_Brushes_Shapes.Brushes.LinearGradientPage"
              Title="LinearGradientPage">
     <Grid>
-        <Frame CornerRadius="5" 
+        <!--<Frame CornerRadius="5" 
                    Margin="20" WidthRequest="150" 
-                   HeightRequest="150">
-            <Frame.Background>
+                   HeightRequest="150">-->
+            <Grid.Background>
                 <!-- StartPoint defaults to (0,0) -->
                 <LinearGradientBrush EndPoint="1,0">
                     <GradientStop Color="Blue"
@@ -17,7 +17,7 @@
                     <GradientStop Color="Red"
                           Offset="1.0" />
                 </LinearGradientBrush>
-            </Frame.Background>
-        </Frame>
+            </Grid.Background>
+        <!--</Frame>-->
     </Grid>
 </ContentPage>

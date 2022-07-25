@@ -3,10 +3,14 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="DataBinding.PickerPage"
              Title="PickerPage">
-    <VerticalStackLayout>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
         <Label Text="Select your favorite fruit:"/>
-        <Picker x:Name="FruitPicker" ItemDisplayBinding="{Binding Name}"
+        <Picker x:Name="FruitPicker" ItemDisplayBinding="{Binding Name}" Grid.Row="1"
                     SelectedIndexChanged="FruitPicker_SelectedIndexChanged"/>
 
-    </VerticalStackLayout>
+    </Grid>
 </ContentPage>
