@@ -1,0 +1,521 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Source\\Chapter6_Navigation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|c:\\source\\chapter6_navigation\\chapter6_navigation\\tabbedpageexample.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|solutionrelative:chapter6_navigation\\tabbedpageexample.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|c:\\source\\chapter6_navigation\\chapter6_navigation\\tabbedpageexample.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|solutionrelative:chapter6_navigation\\tabbedpageexample.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|c:\\source\\chapter6_navigation\\chapter6_navigation\\flyoutpageexample.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|solutionrelative:chapter6_navigation\\flyoutpageexample.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|c:\\source\\chapter6_navigation\\chapter6_navigation\\flyoutpageexample.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|solutionrelative:chapter6_navigation\\flyoutpageexample.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|c:\\source\\chapter6_navigation\\chapter6_navigation\\secondarypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|solutionrelative:chapter6_navigation\\secondarypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|c:\\source\\chapter6_navigation\\chapter6_navigation\\itemsearchhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|solutionrelative:chapter6_navigation\\itemsearchhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|c:\\source\\chapter6_navigation\\chapter6_navigation\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|solutionrelative:chapter6_navigation\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|c:\\source\\chapter6_navigation\\chapter6_navigation\\secondarypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|solutionrelative:chapter6_navigation\\secondarypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|c:\\source\\chapter6_navigation\\chapter6_navigation\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|solutionrelative:chapter6_navigation\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|c:\\source\\chapter6_navigation\\chapter6_navigation\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|solutionrelative:chapter6_navigation\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|c:\\source\\chapter6_navigation\\chapter6_navigation\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|solutionrelative:chapter6_navigation\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|c:\\source\\chapter6_navigation\\chapter6_navigation\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|solutionrelative:chapter6_navigation\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|c:\\source\\chapter6_navigation\\chapter6_navigation\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|solutionrelative:chapter6_navigation\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|c:\\source\\chapter6_navigation\\chapter6_navigation\\pages\\contactpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|solutionrelative:chapter6_navigation\\pages\\contactpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|c:\\source\\chapter6_navigation\\chapter6_navigation\\pages\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D2DE7E9-1B02-498F-B1E8-E3E0A04DA6C3}|Chapter6_Navigation\\Chapter6_Navigation.csproj|solutionrelative:chapter6_navigation\\pages\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 64,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{322def9a-7462-43dc-9736-26e09636d0e3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:166:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:169:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:170:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:171:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TabbedPageExample.xaml.cs",
+              "DocumentMoniker": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\TabbedPageExample.xaml.cs",
+              "RelativeDocumentMoniker": "Chapter6_Navigation\\TabbedPageExample.xaml.cs",
+              "ToolTip": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\TabbedPageExample.xaml.cs",
+              "RelativeToolTip": "Chapter6_Navigation\\TabbedPageExample.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:41:20.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TabbedPageExample.xaml",
+              "DocumentMoniker": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\TabbedPageExample.xaml",
+              "RelativeDocumentMoniker": "Chapter6_Navigation\\TabbedPageExample.xaml",
+              "ToolTip": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\TabbedPageExample.xaml",
+              "RelativeToolTip": "Chapter6_Navigation\\TabbedPageExample.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T09:39:46.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecondaryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\SecondaryPage.xaml.cs",
+              "RelativeDocumentMoniker": "Chapter6_Navigation\\SecondaryPage.xaml.cs",
+              "ToolTip": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\SecondaryPage.xaml.cs",
+              "RelativeToolTip": "Chapter6_Navigation\\SecondaryPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:38:54.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Chapter6_Navigation\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\MainPage.xaml.cs",
+              "RelativeToolTip": "Chapter6_Navigation\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:37:59.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlyoutPageExample.xaml",
+              "DocumentMoniker": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\FlyoutPageExample.xaml",
+              "RelativeDocumentMoniker": "Chapter6_Navigation\\FlyoutPageExample.xaml",
+              "ToolTip": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\FlyoutPageExample.xaml",
+              "RelativeToolTip": "Chapter6_Navigation\\FlyoutPageExample.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T09:32:40.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemSearchHandler.cs",
+              "DocumentMoniker": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\ItemSearchHandler.cs",
+              "RelativeDocumentMoniker": "Chapter6_Navigation\\ItemSearchHandler.cs",
+              "ToolTip": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\ItemSearchHandler.cs",
+              "RelativeToolTip": "Chapter6_Navigation\\ItemSearchHandler.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:27:03.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlyoutPageExample.xaml.cs",
+              "DocumentMoniker": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\FlyoutPageExample.xaml.cs",
+              "RelativeDocumentMoniker": "Chapter6_Navigation\\FlyoutPageExample.xaml.cs",
+              "ToolTip": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\FlyoutPageExample.xaml.cs",
+              "RelativeToolTip": "Chapter6_Navigation\\FlyoutPageExample.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:35:24.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SecondaryPage.xaml",
+              "DocumentMoniker": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\SecondaryPage.xaml",
+              "RelativeDocumentMoniker": "Chapter6_Navigation\\SecondaryPage.xaml",
+              "ToolTip": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\SecondaryPage.xaml",
+              "RelativeToolTip": "Chapter6_Navigation\\SecondaryPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T09:38:38.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Chapter6_Navigation\\MainPage.xaml",
+              "ToolTip": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\MainPage.xaml",
+              "RelativeToolTip": "Chapter6_Navigation\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T09:37:48.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Chapter6_Navigation\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\AppShell.xaml.cs",
+              "RelativeToolTip": "Chapter6_Navigation\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:31:20.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Chapter6_Navigation\\AppShell.xaml",
+              "ToolTip": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\AppShell.xaml",
+              "RelativeToolTip": "Chapter6_Navigation\\AppShell.xaml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwCAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T09:29:36.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\Product.cs",
+              "RelativeDocumentMoniker": "Chapter6_Navigation\\Product.cs",
+              "ToolTip": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\Product.cs",
+              "RelativeToolTip": "Chapter6_Navigation\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:27:45.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\Pages\\HomePage.xaml",
+              "RelativeDocumentMoniker": "Chapter6_Navigation\\Pages\\HomePage.xaml",
+              "ToolTip": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\Pages\\HomePage.xaml",
+              "RelativeToolTip": "Chapter6_Navigation\\Pages\\HomePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T09:26:18.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContactPage.xaml",
+              "DocumentMoniker": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\Pages\\ContactPage.xaml",
+              "RelativeDocumentMoniker": "Chapter6_Navigation\\Pages\\ContactPage.xaml",
+              "ToolTip": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\Pages\\ContactPage.xaml",
+              "RelativeToolTip": "Chapter6_Navigation\\Pages\\ContactPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T09:26:07.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\Pages\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "Chapter6_Navigation\\Pages\\AboutPage.xaml",
+              "ToolTip": "C:\\Source\\Chapter6_Navigation\\Chapter6_Navigation\\Pages\\AboutPage.xaml",
+              "RelativeToolTip": "Chapter6_Navigation\\Pages\\AboutPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T09:25:57.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

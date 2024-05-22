@@ -1,0 +1,561 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Source\\DataBinding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|c:\\source\\databinding\\databinding\\peoplemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\peoplemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|c:\\source\\databinding\\databinding\\valueconverterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\valueconverterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|c:\\source\\databinding\\databinding\\valueconverterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\valueconverterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|c:\\source\\databinding\\databinding\\singleobjectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\singleobjectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|c:\\source\\databinding\\databinding\\singleobjectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\singleobjectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|c:\\source\\databinding\\databinding\\pickerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\pickerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|c:\\source\\databinding\\databinding\\pickerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\pickerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|c:\\source\\databinding\\databinding\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|c:\\source\\databinding\\databinding\\listviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\listviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|c:\\source\\databinding\\databinding\\listviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\listviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|c:\\source\\databinding\\databinding\\htmlconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\htmlconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|c:\\source\\databinding\\databinding\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|c:\\source\\databinding\\databinding\\collectionspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\collectionspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|c:\\source\\databinding\\databinding\\collectionspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\collectionspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|c:\\source\\databinding\\databinding\\carouselviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\carouselviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|c:\\source\\databinding\\databinding\\carouselviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\carouselviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|c:\\source\\databinding\\databinding\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2B140AF-E5EA-46EB-88A0-E8092E130203}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 70,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{322def9a-7462-43dc-9736-26e09636d0e3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:166:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:169:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:170:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:171:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValueConverterPage.xaml.cs",
+              "DocumentMoniker": "C:\\Source\\DataBinding\\DataBinding\\ValueConverterPage.xaml.cs",
+              "RelativeDocumentMoniker": "DataBinding\\ValueConverterPage.xaml.cs",
+              "ToolTip": "C:\\Source\\DataBinding\\DataBinding\\ValueConverterPage.xaml.cs",
+              "RelativeToolTip": "DataBinding\\ValueConverterPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:12:20.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValueConverterPage.xaml",
+              "DocumentMoniker": "C:\\Source\\DataBinding\\DataBinding\\ValueConverterPage.xaml",
+              "RelativeDocumentMoniker": "DataBinding\\ValueConverterPage.xaml",
+              "ToolTip": "C:\\Source\\DataBinding\\DataBinding\\ValueConverterPage.xaml",
+              "RelativeToolTip": "DataBinding\\ValueConverterPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T10:12:01.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SingleObjectPage.xaml.cs",
+              "DocumentMoniker": "C:\\Source\\DataBinding\\DataBinding\\SingleObjectPage.xaml.cs",
+              "RelativeDocumentMoniker": "DataBinding\\SingleObjectPage.xaml.cs",
+              "ToolTip": "C:\\Source\\DataBinding\\DataBinding\\SingleObjectPage.xaml.cs",
+              "RelativeToolTip": "DataBinding\\SingleObjectPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:11:26.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SingleObjectPage.xaml",
+              "DocumentMoniker": "C:\\Source\\DataBinding\\DataBinding\\SingleObjectPage.xaml",
+              "RelativeDocumentMoniker": "DataBinding\\SingleObjectPage.xaml",
+              "ToolTip": "C:\\Source\\DataBinding\\DataBinding\\SingleObjectPage.xaml",
+              "RelativeToolTip": "DataBinding\\SingleObjectPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T10:11:19.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PickerPage.xaml.cs",
+              "DocumentMoniker": "C:\\Source\\DataBinding\\DataBinding\\PickerPage.xaml.cs",
+              "RelativeDocumentMoniker": "DataBinding\\PickerPage.xaml.cs",
+              "ToolTip": "C:\\Source\\DataBinding\\DataBinding\\PickerPage.xaml.cs",
+              "RelativeToolTip": "DataBinding\\PickerPage.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:10:45.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PickerPage.xaml",
+              "DocumentMoniker": "C:\\Source\\DataBinding\\DataBinding\\PickerPage.xaml",
+              "RelativeDocumentMoniker": "DataBinding\\PickerPage.xaml",
+              "ToolTip": "C:\\Source\\DataBinding\\DataBinding\\PickerPage.xaml",
+              "RelativeToolTip": "DataBinding\\PickerPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T10:10:34.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Source\\DataBinding\\DataBinding\\Person.cs",
+              "RelativeDocumentMoniker": "DataBinding\\Person.cs",
+              "ToolTip": "C:\\Source\\DataBinding\\DataBinding\\Person.cs",
+              "RelativeToolTip": "DataBinding\\Person.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwD4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:10:06.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeopleModel.cs",
+              "DocumentMoniker": "C:\\Source\\DataBinding\\DataBinding\\PeopleModel.cs",
+              "RelativeDocumentMoniker": "DataBinding\\PeopleModel.cs",
+              "ToolTip": "C:\\Source\\DataBinding\\DataBinding\\PeopleModel.cs",
+              "RelativeToolTip": "DataBinding\\PeopleModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:09:43.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListViewPage.xaml.cs",
+              "DocumentMoniker": "C:\\Source\\DataBinding\\DataBinding\\ListViewPage.xaml.cs",
+              "RelativeDocumentMoniker": "DataBinding\\ListViewPage.xaml.cs",
+              "ToolTip": "C:\\Source\\DataBinding\\DataBinding\\ListViewPage.xaml.cs",
+              "RelativeToolTip": "DataBinding\\ListViewPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:09:04.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListViewPage.xaml",
+              "DocumentMoniker": "C:\\Source\\DataBinding\\DataBinding\\ListViewPage.xaml",
+              "RelativeDocumentMoniker": "DataBinding\\ListViewPage.xaml",
+              "ToolTip": "C:\\Source\\DataBinding\\DataBinding\\ListViewPage.xaml",
+              "RelativeToolTip": "DataBinding\\ListViewPage.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T10:08:55.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HtmlConverter.cs",
+              "DocumentMoniker": "C:\\Source\\DataBinding\\DataBinding\\HtmlConverter.cs",
+              "RelativeDocumentMoniker": "DataBinding\\HtmlConverter.cs",
+              "ToolTip": "C:\\Source\\DataBinding\\DataBinding\\HtmlConverter.cs",
+              "RelativeToolTip": "DataBinding\\HtmlConverter.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:08:26.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Source\\DataBinding\\DataBinding\\Fruit.cs",
+              "RelativeDocumentMoniker": "DataBinding\\Fruit.cs",
+              "ToolTip": "C:\\Source\\DataBinding\\DataBinding\\Fruit.cs",
+              "RelativeToolTip": "DataBinding\\Fruit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:08:05.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CollectionsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Source\\DataBinding\\DataBinding\\CollectionsPage.xaml.cs",
+              "RelativeDocumentMoniker": "DataBinding\\CollectionsPage.xaml.cs",
+              "ToolTip": "C:\\Source\\DataBinding\\DataBinding\\CollectionsPage.xaml.cs",
+              "RelativeToolTip": "DataBinding\\CollectionsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:07:42.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CollectionsPage.xaml",
+              "DocumentMoniker": "C:\\Source\\DataBinding\\DataBinding\\CollectionsPage.xaml",
+              "RelativeDocumentMoniker": "DataBinding\\CollectionsPage.xaml",
+              "ToolTip": "C:\\Source\\DataBinding\\DataBinding\\CollectionsPage.xaml",
+              "RelativeToolTip": "DataBinding\\CollectionsPage.xaml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwDIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T10:07:19.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarouselViewPage.xaml.cs",
+              "DocumentMoniker": "C:\\Source\\DataBinding\\DataBinding\\CarouselViewPage.xaml.cs",
+              "RelativeDocumentMoniker": "DataBinding\\CarouselViewPage.xaml.cs",
+              "ToolTip": "C:\\Source\\DataBinding\\DataBinding\\CarouselViewPage.xaml.cs",
+              "RelativeToolTip": "DataBinding\\CarouselViewPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:06:32.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarouselViewPage.xaml",
+              "DocumentMoniker": "C:\\Source\\DataBinding\\DataBinding\\CarouselViewPage.xaml",
+              "RelativeDocumentMoniker": "DataBinding\\CarouselViewPage.xaml",
+              "ToolTip": "C:\\Source\\DataBinding\\DataBinding\\CarouselViewPage.xaml",
+              "RelativeToolTip": "DataBinding\\CarouselViewPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T10:06:15.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Source\\DataBinding\\DataBinding\\AppShell.xaml",
+              "RelativeDocumentMoniker": "DataBinding\\AppShell.xaml",
+              "ToolTip": "C:\\Source\\DataBinding\\DataBinding\\AppShell.xaml",
+              "RelativeToolTip": "DataBinding\\AppShell.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T10:05:43.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

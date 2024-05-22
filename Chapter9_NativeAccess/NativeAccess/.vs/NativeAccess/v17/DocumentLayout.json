@@ -1,0 +1,510 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Source\\NativeAccess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|c:\\source\\nativeaccess\\nativeaccess\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|solutionrelative:nativeaccess\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|c:\\source\\nativeaccess\\nativeaccess\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|solutionrelative:nativeaccess\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|c:\\source\\nativeaccess\\nativeaccess\\platforms\\maccatalyst\\deviceorientationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|solutionrelative:nativeaccess\\platforms\\maccatalyst\\deviceorientationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|c:\\source\\nativeaccess\\nativeaccess\\platforms\\windows\\deviceorientationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|solutionrelative:nativeaccess\\platforms\\windows\\deviceorientationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|c:\\source\\nativeaccess\\nativeaccess\\messages\\samplemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|solutionrelative:nativeaccess\\messages\\samplemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|c:\\source\\nativeaccess\\nativeaccess\\messages\\demoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|solutionrelative:nativeaccess\\messages\\demoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|c:\\source\\nativeaccess\\nativeaccess\\deviceorientationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|solutionrelative:nativeaccess\\deviceorientationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|c:\\source\\nativeaccess\\nativeaccess\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|solutionrelative:nativeaccess\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|c:\\source\\nativeaccess\\nativeaccess\\platforms\\tizen\\deviceorientationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|solutionrelative:nativeaccess\\platforms\\tizen\\deviceorientationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|c:\\source\\nativeaccess\\nativeaccess\\platformspecificsiospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|solutionrelative:nativeaccess\\platformspecificsiospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|c:\\source\\nativeaccess\\nativeaccess\\platforms\\android\\deviceorientationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|solutionrelative:nativeaccess\\platforms\\android\\deviceorientationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|c:\\source\\nativeaccess\\nativeaccess\\platforms\\ios\\deviceorientationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|solutionrelative:nativeaccess\\platforms\\ios\\deviceorientationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|c:\\source\\nativeaccess\\nativeaccess\\platformspecificsiospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|solutionrelative:nativeaccess\\platformspecificsiospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|c:\\source\\nativeaccess\\nativeaccess\\platformspecificsandroidpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32CF21B2-5825-40DF-8646-B563A2E96E71}|NativeAccess\\NativeAccess.csproj|solutionrelative:nativeaccess\\platformspecificsandroidpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 68,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{322def9a-7462-43dc-9736-26e09636d0e3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:166:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:169:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:170:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:171:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Source\\NativeAccess\\NativeAccess\\AppShell.xaml",
+              "RelativeDocumentMoniker": "NativeAccess\\AppShell.xaml",
+              "ToolTip": "C:\\Source\\NativeAccess\\NativeAccess\\AppShell.xaml",
+              "RelativeToolTip": "NativeAccess\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T12:51:15.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SampleMessage.cs",
+              "DocumentMoniker": "C:\\Source\\NativeAccess\\NativeAccess\\Messages\\SampleMessage.cs",
+              "RelativeDocumentMoniker": "NativeAccess\\Messages\\SampleMessage.cs",
+              "ToolTip": "C:\\Source\\NativeAccess\\NativeAccess\\Messages\\SampleMessage.cs",
+              "RelativeToolTip": "NativeAccess\\Messages\\SampleMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:35:17.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DemoViewModel.cs",
+              "DocumentMoniker": "C:\\Source\\NativeAccess\\NativeAccess\\Messages\\DemoViewModel.cs",
+              "RelativeDocumentMoniker": "NativeAccess\\Messages\\DemoViewModel.cs",
+              "ToolTip": "C:\\Source\\NativeAccess\\NativeAccess\\Messages\\DemoViewModel.cs",
+              "RelativeToolTip": "NativeAccess\\Messages\\DemoViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:34:16.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeviceOrientationService.cs",
+              "DocumentMoniker": "C:\\Source\\NativeAccess\\NativeAccess\\Platforms\\Windows\\DeviceOrientationService.cs",
+              "RelativeDocumentMoniker": "NativeAccess\\Platforms\\Windows\\DeviceOrientationService.cs",
+              "ToolTip": "C:\\Source\\NativeAccess\\NativeAccess\\Platforms\\Windows\\DeviceOrientationService.cs",
+              "RelativeToolTip": "NativeAccess\\Platforms\\Windows\\DeviceOrientationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:21:06.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeviceOrientationService.cs",
+              "DocumentMoniker": "C:\\Source\\NativeAccess\\NativeAccess\\Platforms\\MacCatalyst\\DeviceOrientationService.cs",
+              "RelativeDocumentMoniker": "NativeAccess\\Platforms\\MacCatalyst\\DeviceOrientationService.cs",
+              "ToolTip": "C:\\Source\\NativeAccess\\NativeAccess\\Platforms\\MacCatalyst\\DeviceOrientationService.cs",
+              "RelativeToolTip": "NativeAccess\\Platforms\\MacCatalyst\\DeviceOrientationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:20:48.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Source\\NativeAccess\\NativeAccess\\MainPage.xaml",
+              "RelativeDocumentMoniker": "NativeAccess\\MainPage.xaml",
+              "ToolTip": "C:\\Source\\NativeAccess\\NativeAccess\\MainPage.xaml",
+              "RelativeToolTip": "NativeAccess\\MainPage.xaml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T11:15:29.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Source\\NativeAccess\\NativeAccess\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "NativeAccess\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Source\\NativeAccess\\NativeAccess\\MainPage.xaml.cs",
+              "RelativeToolTip": "NativeAccess\\MainPage.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAowDUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:14:51.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeviceOrientationService.cs",
+              "DocumentMoniker": "C:\\Source\\NativeAccess\\NativeAccess\\DeviceOrientationService.cs",
+              "RelativeDocumentMoniker": "NativeAccess\\DeviceOrientationService.cs",
+              "ToolTip": "C:\\Source\\NativeAccess\\NativeAccess\\DeviceOrientationService.cs",
+              "RelativeToolTip": "NativeAccess\\DeviceOrientationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:14:11.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlatformSpecificsiOSPage.xaml.cs",
+              "DocumentMoniker": "C:\\Source\\NativeAccess\\NativeAccess\\PlatformSpecificsiOSPage.xaml.cs",
+              "RelativeDocumentMoniker": "NativeAccess\\PlatformSpecificsiOSPage.xaml.cs",
+              "ToolTip": "C:\\Source\\NativeAccess\\NativeAccess\\PlatformSpecificsiOSPage.xaml.cs",
+              "RelativeToolTip": "NativeAccess\\PlatformSpecificsiOSPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:19:28.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeviceOrientationService.cs",
+              "DocumentMoniker": "C:\\Source\\NativeAccess\\NativeAccess\\Platforms\\Android\\DeviceOrientationService.cs",
+              "RelativeDocumentMoniker": "NativeAccess\\Platforms\\Android\\DeviceOrientationService.cs",
+              "ToolTip": "C:\\Source\\NativeAccess\\NativeAccess\\Platforms\\Android\\DeviceOrientationService.cs",
+              "RelativeToolTip": "NativeAccess\\Platforms\\Android\\DeviceOrientationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:12:29.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeviceOrientationService.cs",
+              "DocumentMoniker": "C:\\Source\\NativeAccess\\NativeAccess\\Platforms\\Tizen\\DeviceOrientationService.cs",
+              "RelativeDocumentMoniker": "NativeAccess\\Platforms\\Tizen\\DeviceOrientationService.cs",
+              "ToolTip": "C:\\Source\\NativeAccess\\NativeAccess\\Platforms\\Tizen\\DeviceOrientationService.cs",
+              "RelativeToolTip": "NativeAccess\\Platforms\\Tizen\\DeviceOrientationService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:20:58.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeviceOrientationService.cs",
+              "DocumentMoniker": "C:\\Source\\NativeAccess\\NativeAccess\\Platforms\\iOS\\DeviceOrientationService.cs",
+              "RelativeDocumentMoniker": "NativeAccess\\Platforms\\iOS\\DeviceOrientationService.cs",
+              "ToolTip": "C:\\Source\\NativeAccess\\NativeAccess\\Platforms\\iOS\\DeviceOrientationService.cs",
+              "RelativeToolTip": "NativeAccess\\Platforms\\iOS\\DeviceOrientationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:13:35.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlatformSpecificsiOSPage.xaml",
+              "DocumentMoniker": "C:\\Source\\NativeAccess\\NativeAccess\\PlatformSpecificsiOSPage.xaml",
+              "RelativeDocumentMoniker": "NativeAccess\\PlatformSpecificsiOSPage.xaml",
+              "ToolTip": "C:\\Source\\NativeAccess\\NativeAccess\\PlatformSpecificsiOSPage.xaml",
+              "RelativeToolTip": "NativeAccess\\PlatformSpecificsiOSPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T11:19:08.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlatformSpecificsAndroidPage.xaml",
+              "DocumentMoniker": "C:\\Source\\NativeAccess\\NativeAccess\\PlatformSpecificsAndroidPage.xaml",
+              "RelativeDocumentMoniker": "NativeAccess\\PlatformSpecificsAndroidPage.xaml",
+              "ToolTip": "C:\\Source\\NativeAccess\\NativeAccess\\PlatformSpecificsAndroidPage.xaml",
+              "RelativeToolTip": "NativeAccess\\PlatformSpecificsAndroidPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T11:18:39.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

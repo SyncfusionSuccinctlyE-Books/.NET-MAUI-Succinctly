@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter5_CommonControls", "Chapter5_CommonControls\Chapter5_CommonControls.csproj", "{44A40F5F-1467-4866-AD83-6BE7ACBB59CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44A40F5F-1467-4866-AD83-6BE7ACBB59CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A40F5F-1467-4866-AD83-6BE7ACBB59CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A40F5F-1467-4866-AD83-6BE7ACBB59CD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{44A40F5F-1467-4866-AD83-6BE7ACBB59CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A40F5F-1467-4866-AD83-6BE7ACBB59CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A40F5F-1467-4866-AD83-6BE7ACBB59CD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63F93A7B-7006-4D98-8D08-60F45D5C859A}
+	EndGlobalSection
+EndGlobal

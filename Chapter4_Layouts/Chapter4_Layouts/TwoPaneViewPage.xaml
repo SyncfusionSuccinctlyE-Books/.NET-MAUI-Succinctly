@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Chapter4_Layouts.TwoPaneViewPage"
+                          xmlns:foldable="clr-namespace:Microsoft.Maui.Controls.Foldable;assembly=Microsoft.Maui.Controls.Foldable"
+             Title="TwoPaneViewPage">
+    <foldable:TwoPaneView x:Name="twoPaneView">
+        <foldable:TwoPaneView.Pane1
+        BackgroundColor="#dddddd">
+            <Label
+            Text="Pane 1 on the first screen"
+            FontSize="32"
+            HorizontalOptions="Center" />
+        </foldable:TwoPaneView.Pane1>
+        <foldable:TwoPaneView.Pane2>
+            <VerticalStackLayout BackgroundColor="LightBlue">
+                <Label Text="Pane2 on the second screen" 
+                       TextColor="Red"/>
+            </VerticalStackLayout>
+        </foldable:TwoPaneView.Pane2>
+    </foldable:TwoPaneView>
+
+</ContentPage>

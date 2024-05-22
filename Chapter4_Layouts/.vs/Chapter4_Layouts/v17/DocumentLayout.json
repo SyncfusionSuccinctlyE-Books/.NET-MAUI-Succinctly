@@ -1,0 +1,442 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Source\\MAUISuccinctly\\Chapter4_Layouts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}|Chapter4_Layouts\\Chapter4_Layouts.csproj|c:\\source\\mauisuccinctly\\chapter4_layouts\\chapter4_layouts\\twopaneviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}|Chapter4_Layouts\\Chapter4_Layouts.csproj|solutionrelative:chapter4_layouts\\twopaneviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}|Chapter4_Layouts\\Chapter4_Layouts.csproj|c:\\source\\mauisuccinctly\\chapter4_layouts\\chapter4_layouts\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}|Chapter4_Layouts\\Chapter4_Layouts.csproj|solutionrelative:chapter4_layouts\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}|Chapter4_Layouts\\Chapter4_Layouts.csproj|c:\\source\\mauisuccinctly\\chapter4_layouts\\chapter4_layouts\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}|Chapter4_Layouts\\Chapter4_Layouts.csproj|solutionrelative:chapter4_layouts\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}|Chapter4_Layouts\\Chapter4_Layouts.csproj|c:\\source\\mauisuccinctly\\chapter4_layouts\\chapter4_layouts\\scrollviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}|Chapter4_Layouts\\Chapter4_Layouts.csproj|solutionrelative:chapter4_layouts\\scrollviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}|Chapter4_Layouts\\Chapter4_Layouts.csproj|c:\\source\\mauisuccinctly\\chapter4_layouts\\chapter4_layouts\\scrollviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}|Chapter4_Layouts\\Chapter4_Layouts.csproj|solutionrelative:chapter4_layouts\\scrollviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}|Chapter4_Layouts\\Chapter4_Layouts.csproj|c:\\source\\mauisuccinctly\\chapter4_layouts\\chapter4_layouts\\orientedstackspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}|Chapter4_Layouts\\Chapter4_Layouts.csproj|solutionrelative:chapter4_layouts\\orientedstackspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}|Chapter4_Layouts\\Chapter4_Layouts.csproj|c:\\source\\mauisuccinctly\\chapter4_layouts\\chapter4_layouts\\gridpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}|Chapter4_Layouts\\Chapter4_Layouts.csproj|solutionrelative:chapter4_layouts\\gridpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}|Chapter4_Layouts\\Chapter4_Layouts.csproj|c:\\source\\mauisuccinctly\\chapter4_layouts\\chapter4_layouts\\framepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}|Chapter4_Layouts\\Chapter4_Layouts.csproj|solutionrelative:chapter4_layouts\\framepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}|Chapter4_Layouts\\Chapter4_Layouts.csproj|c:\\source\\mauisuccinctly\\chapter4_layouts\\chapter4_layouts\\flexlayoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}|Chapter4_Layouts\\Chapter4_Layouts.csproj|solutionrelative:chapter4_layouts\\flexlayoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}|Chapter4_Layouts\\Chapter4_Layouts.csproj|c:\\source\\mauisuccinctly\\chapter4_layouts\\chapter4_layouts\\absolutelayoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}|Chapter4_Layouts\\Chapter4_Layouts.csproj|solutionrelative:chapter4_layouts\\absolutelayoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 63,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{322def9a-7462-43dc-9736-26e09636d0e3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:166:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:169:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:170:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:171:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TwoPaneViewPage.xaml",
+              "DocumentMoniker": "C:\\Source\\MAUISuccinctly\\Chapter4_Layouts\\Chapter4_Layouts\\TwoPaneViewPage.xaml",
+              "RelativeDocumentMoniker": "Chapter4_Layouts\\TwoPaneViewPage.xaml",
+              "ToolTip": "C:\\Source\\MAUISuccinctly\\Chapter4_Layouts\\Chapter4_Layouts\\TwoPaneViewPage.xaml",
+              "RelativeToolTip": "Chapter4_Layouts\\TwoPaneViewPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T05:12:48.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Source\\MAUISuccinctly\\Chapter4_Layouts\\Chapter4_Layouts\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Chapter4_Layouts\\AppShell.xaml",
+              "ToolTip": "C:\\Source\\MAUISuccinctly\\Chapter4_Layouts\\Chapter4_Layouts\\AppShell.xaml",
+              "RelativeToolTip": "Chapter4_Layouts\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T09:17:35.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Source\\MAUISuccinctly\\Chapter4_Layouts\\Chapter4_Layouts\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Chapter4_Layouts\\App.xaml.cs",
+              "ToolTip": "C:\\Source\\MAUISuccinctly\\Chapter4_Layouts\\Chapter4_Layouts\\App.xaml.cs",
+              "RelativeToolTip": "Chapter4_Layouts\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:17:30.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScrollViewPage.xaml.cs",
+              "DocumentMoniker": "C:\\Source\\MAUISuccinctly\\Chapter4_Layouts\\Chapter4_Layouts\\ScrollViewPage.xaml.cs",
+              "RelativeDocumentMoniker": "Chapter4_Layouts\\ScrollViewPage.xaml.cs",
+              "ToolTip": "C:\\Source\\MAUISuccinctly\\Chapter4_Layouts\\Chapter4_Layouts\\ScrollViewPage.xaml.cs",
+              "RelativeToolTip": "Chapter4_Layouts\\ScrollViewPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:16:45.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScrollViewPage.xaml",
+              "DocumentMoniker": "C:\\Source\\MAUISuccinctly\\Chapter4_Layouts\\Chapter4_Layouts\\ScrollViewPage.xaml",
+              "RelativeDocumentMoniker": "Chapter4_Layouts\\ScrollViewPage.xaml",
+              "ToolTip": "C:\\Source\\MAUISuccinctly\\Chapter4_Layouts\\Chapter4_Layouts\\ScrollViewPage.xaml",
+              "RelativeToolTip": "Chapter4_Layouts\\ScrollViewPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T09:15:03.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrientedStacksPage.xaml",
+              "DocumentMoniker": "C:\\Source\\MAUISuccinctly\\Chapter4_Layouts\\Chapter4_Layouts\\OrientedStacksPage.xaml",
+              "RelativeDocumentMoniker": "Chapter4_Layouts\\OrientedStacksPage.xaml",
+              "ToolTip": "C:\\Source\\MAUISuccinctly\\Chapter4_Layouts\\Chapter4_Layouts\\OrientedStacksPage.xaml",
+              "RelativeToolTip": "Chapter4_Layouts\\OrientedStacksPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T09:14:49.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GridPage.xaml",
+              "DocumentMoniker": "C:\\Source\\MAUISuccinctly\\Chapter4_Layouts\\Chapter4_Layouts\\GridPage.xaml",
+              "RelativeDocumentMoniker": "Chapter4_Layouts\\GridPage.xaml",
+              "ToolTip": "C:\\Source\\MAUISuccinctly\\Chapter4_Layouts\\Chapter4_Layouts\\GridPage.xaml",
+              "RelativeToolTip": "Chapter4_Layouts\\GridPage.xaml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwB0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T09:14:31.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FramePage.xaml",
+              "DocumentMoniker": "C:\\Source\\MAUISuccinctly\\Chapter4_Layouts\\Chapter4_Layouts\\FramePage.xaml",
+              "RelativeDocumentMoniker": "Chapter4_Layouts\\FramePage.xaml",
+              "ToolTip": "C:\\Source\\MAUISuccinctly\\Chapter4_Layouts\\Chapter4_Layouts\\FramePage.xaml",
+              "RelativeToolTip": "Chapter4_Layouts\\FramePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T09:14:21.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlexLayoutPage.xaml",
+              "DocumentMoniker": "C:\\Source\\MAUISuccinctly\\Chapter4_Layouts\\Chapter4_Layouts\\FlexLayoutPage.xaml",
+              "RelativeDocumentMoniker": "Chapter4_Layouts\\FlexLayoutPage.xaml",
+              "ToolTip": "C:\\Source\\MAUISuccinctly\\Chapter4_Layouts\\Chapter4_Layouts\\FlexLayoutPage.xaml",
+              "RelativeToolTip": "Chapter4_Layouts\\FlexLayoutPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T09:14:08.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AbsoluteLayoutPage.xaml",
+              "DocumentMoniker": "C:\\Source\\MAUISuccinctly\\Chapter4_Layouts\\Chapter4_Layouts\\AbsoluteLayoutPage.xaml",
+              "RelativeDocumentMoniker": "Chapter4_Layouts\\AbsoluteLayoutPage.xaml",
+              "ToolTip": "C:\\Source\\MAUISuccinctly\\Chapter4_Layouts\\Chapter4_Layouts\\AbsoluteLayoutPage.xaml",
+              "RelativeToolTip": "Chapter4_Layouts\\AbsoluteLayoutPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T09:13:48.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

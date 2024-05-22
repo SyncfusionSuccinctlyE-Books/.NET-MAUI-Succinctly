@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter4_Layouts", "Chapter4_Layouts\Chapter4_Layouts.csproj", "{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A3C2BF-BE60-4DA6-8D6B-9A7F9C14081F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC695904-15C6-4C84-859C-FFA33459582E}
+	EndGlobalSection
+EndGlobal
